@@ -1,1 +1,2 @@
 # latihan
+print("yoongi ganteng")
