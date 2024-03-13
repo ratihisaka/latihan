@@ -1,2 +1,2 @@
 # latihan
-print("yoongi ganteng")
+print("yoongi_ganteng")
